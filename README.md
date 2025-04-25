@@ -62,3 +62,4 @@ the working solution in the [solution branch][solution] of this repository.
 [to-throw]: https://jestjs.io/docs/expect#tothrowerror
 [solution]:
   https://github.com/learn-co-curriculum/react-hooks-tdd-writing-unit-tests-lab/tree/solution/src
+.
